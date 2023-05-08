@@ -2,7 +2,9 @@
  * Part 1: Creating Variables and Constants
  * In this file you should define the following variables with the exact names
  *
- * 1. fullName      -> assign it a value of your full name
+ * 1.  console.log ->  ("Abdullah Fahad Mohammed")
+ * 
+ * 
  * 2. yearOfBirth   -> assign it a value of your year of birth
  * 3. hobby         -> assign it a value of your favorite hobby
  * 4. funFact       -> assign it a value of some fun fact about yourself
@@ -10,6 +12,14 @@
  */
 
 // Part 1 answer 👇🏻 ...
+
+const fullName = "Abdullah Fahad";
+const yearOfBirth = 27;
+let hobby = "Swimming";
+
+
+
+
 
 
 
